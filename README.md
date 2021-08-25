@@ -1,1 +1,1 @@
-# Image-Recognition-as-a-Service-
+# Image Classifier
